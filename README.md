@@ -35,7 +35,7 @@ How many athletes won each medal on each day for several fields such as medal ty
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/52540495/178803623-4229d1a8-043f-406d-b037-f8ced75db211.png">
 
-<img width="451" alt="image" src="https://user-images.githubusercontent.com/52540495/178803635-a772211b-fff4-498f-96d1-4b1798ca5f38.png">
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/52540495/179320032-215542f8-a47e-4603-93ad-948d1382c1ed.png">
 
 ## Dashboard Description:
 
