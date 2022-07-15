@@ -4,9 +4,9 @@ Shiny dashboards are helpful to access a complete web application framework with
 
 This dashboard is for deeper understanding of Medal's Information in Beijing 2022 Olympic Winter Games.
 
-#Dataset: Beijing 2022 Olympic Winter Games 
+## Dataset: Beijing 2022 Olympic Winter Games 
 
-#About Dataset:
+## About Dataset:
 
         1. This dataset for the Olympic Winter Games in Beijing in 2020 lists the medals, finishes, athletes, coaches, and other achievements. 
         More Data from the Beijing Olympics was used to make this.
@@ -14,30 +14,30 @@ This dashboard is for deeper understanding of Medal's Information in Beijing 202
         2. There are around around 3000 athletes, 200 coaches, 600 events, 15 disciplines, 600 medals, 200 technical officials, and results for 
         hockey and  curling from the XXIV Olympic Winter Games.
   
-#Disciplines: 
+## Disciplines: 
 
 Alpine Skiing, Biathlon, Bobsleigh, Cross-Country Skiing, Curling, Figure Skating, Freestyle Skiing, Ice Hockey, Luge, Nordic Combined, 
 Short Track Speed Skating, Skeleton, Ski Jumping, Snowboard, Speed Skating.
 
-#Dataset Description: 
+## Dataset Description: 
 
 <img width="841" alt="Screen Shot 2022-07-13 at 2 17 18 PM" src="https://user-images.githubusercontent.com/52540495/178803303-a94a84d6-38e5-43b7-ad2b-646c2e659cae.png">
 
-#Dataset Exploration:
+## Dataset Exploration:
 
 <img width="259" alt="Screen Shot 2022-07-13 at 2 18 55 PM" src="https://user-images.githubusercontent.com/52540495/178803465-d7cc5855-79d0-4442-aeb7-bc2a31be435a.png">
 
-#Business Question: 
+## Business Question: 
 
 How many athletes won each medal on each day for several fields such as medal type, athletes’ sex, nation, and discipline?
 
-#Dashboard Images:
+## Dashboard Images:
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/52540495/178803623-4229d1a8-043f-406d-b037-f8ced75db211.png">
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/52540495/178803635-a772211b-fff4-498f-96d1-4b1798ca5f38.png">
 
-#Dashboard Description:
+## Dashboard Description:
 
 •I used medal type to fill the field in the first plot between medal date and medal code, showing the medal (gold, silver, or bronze) awarded each day. According to my calculations, athletes earned all three types of citations every day from February 5th to February 20th, 2022. Every day, all three kinds of medals are won.
 
