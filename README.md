@@ -1,4 +1,4 @@
-# RshinyDashboard 
+# RshinyDashboardOnWinter2022Olympics-Medals
 
 Shiny dashboards are helpful to access a complete web application framework within the R environment.
 
