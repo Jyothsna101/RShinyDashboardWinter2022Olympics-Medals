@@ -29,7 +29,7 @@ Short Track Speed Skating, Skeleton, Ski Jumping, Snowboard, Speed Skating.
 
 ## Business Question: 
 
-How many athletes won each medal on each day for several fields such as medal type, athletes’ sex, nation, and discipline?
+How many athletes won each medal code on each day for several fields such as medal type, athletes’ sex, nation, and discipline?
 
 ## Dashboard Images:
 
